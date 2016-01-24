@@ -1,4 +1,7 @@
-Comme demandé dans l’exercice, je rajout un deuxième fichier en ligne de command puis je le modifie.
+là aussi, je rajout un troisième fichier en ligne de command puis je le modifie.
 
 Je ne mets rien de spécial dedans car je ne sais pas quoi y mettre.
+
+Comme pour les autres fichiers.
+
 
